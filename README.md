@@ -44,14 +44,22 @@ Se crea el archivo Dockerfile y se definen las lineas para idicarle de que direc
 Como tengo sistema operativo Windows bajo Docker Desktop de la pagina oficial: https://www.docker.com/products/docker-desktop/
 Para poder construir la imagen de Docker, escribo en la terminal el siguiente comando:
 
-Con la imagen ejecutamos el contenedor con el comando:
 
 ![image](https://user-images.githubusercontent.com/100374777/206622158-c5e03e7f-0dcd-4ad8-8b0f-121e5c4031b4.png)
 
+Con la imagen ejecutamos el contenedor con el comando:
+
+![image](https://user-images.githubusercontent.com/100374777/206623098-2ecb34cc-884a-4097-afac-bb04739252ba.png)
 
 Abrimos el navegador y podemos ver que automaticamente nos redirecciona a localhost/doc y nos muestra la interfase de usuario.
 
-![image](https://user-images.githubusercontent.com/100374777/206623098-2ecb34cc-884a-4097-afac-bb04739252ba.png)
+
+![image](https://user-images.githubusercontent.com/100374777/206623656-eab3031f-96bb-46df-aa7b-dcfe82291a4a.png)
+
+![image](https://user-images.githubusercontent.com/100374777/206623834-45cbf5db-4e87-4dd5-930e-e0ea3fccd985.png)
+
+
+
 
 
 ¡Gracias a quienes hicieron posible este proyecto!
