@@ -41,10 +41,12 @@ Para poder construir la imagen de Docker, escribo en la terminal el siguiente co
 
 Con la imagen ejecutamos el contenedor con el comando:
 
+![image](https://user-images.githubusercontent.com/100374777/206622158-c5e03e7f-0dcd-4ad8-8b0f-121e5c4031b4.png)
+
 
 Abrimos el navegador y podemos ver que automaticamente nos redirecciona a localhost/doc y nos muestra la interfase de usuario.
 
-Fin!
+¡Gracias a quienes hicieron posible este proyecto!
 
 
 
