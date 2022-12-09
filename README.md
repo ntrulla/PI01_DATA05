@@ -16,7 +16,7 @@ En esta ocasión, les voy a mostrar el paso a paso del proceso de ETL que realic
 
 ## **Proceso de ETL**
 
-1) Se ingestan los datos provistos en la carpeta Datasets, en el repositorio.
+1) Se ingestan los datos provistos en la carpeta Datasets enviada por Henry.
 2) Se realiza la limpieza de datos para cada dataset y se corrigen los tipos de datos, valores nulos y duplicados, entre otras tareas.
 3) Se relacionan los datasets para poder acceder a su información por medio de consultas a la API.
 
