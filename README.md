@@ -35,7 +35,7 @@ En esta ocasión, les voy a mostrar el paso a paso del proceso de ETL que realic
 
 3) Se define el metodo raiz para que me redireccione, este es de tipo GET. Con ese metodo le indicamos la ruta en la que queremos que escuche nuestra peticion.
 
-![image](https://user-images.githubusercontent.com/100374777/206622396-5f195c68-e6f1-4b6a-9600-aaaba7b5dc56.png)
+        ![image](https://user-images.githubusercontent.com/100374777/206622396-5f195c68-e6f1-4b6a-9600-aaaba7b5dc56.png)
 
 
 ## **Entorno Docker**
