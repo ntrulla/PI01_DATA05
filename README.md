@@ -51,6 +51,9 @@ Con la imagen ejecutamos el contenedor con el comando:
 
 Abrimos el navegador y podemos ver que automaticamente nos redirecciona a localhost/doc y nos muestra la interfase de usuario.
 
+![image](https://user-images.githubusercontent.com/100374777/206623098-2ecb34cc-884a-4097-afac-bb04739252ba.png)
+
+
 ¡Gracias a quienes hicieron posible este proyecto!
 
 
