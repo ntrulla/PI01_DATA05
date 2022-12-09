@@ -31,7 +31,11 @@ En esta ocasión, les voy a mostrar el paso a paso del proceso de ETL que realic
 -import pandas as pd
 -import numpy as np
 2) Se declara la aplicacion app=FastAPI()
+![image](https://user-images.githubusercontent.com/100374777/206622323-f9847ea0-a24d-4a95-a14e-c0a0075c89d7.png)
+
 3) Se define el metodo raiz para que me redireccione, este es de tipo GET. Con ese metodo le indicamos la ruta en la que queremos que escuche nuestra peticion.
+![image](https://user-images.githubusercontent.com/100374777/206622396-5f195c68-e6f1-4b6a-9600-aaaba7b5dc56.png)
+
 
 ## **Entorno Docker**
 
