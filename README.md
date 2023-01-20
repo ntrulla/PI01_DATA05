@@ -59,7 +59,7 @@ Abrimos el navegador y podemos ver que automáticamente nos re direcciona a loca
 ![image](https://user-images.githubusercontent.com/100374777/206623834-45cbf5db-4e87-4dd5-930e-e0ea3fccd985.png)
 
 
-
+En el siguiente video podran ver la explicacion del trabajo: https://clipchamp.com/watch/cdOv9Jzgs0v
 
 
 ¡Gracias a quienes hicieron posible este proyecto!
